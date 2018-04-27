@@ -8,9 +8,9 @@ def roll
   1 + rand(6)
 end
 
-#with range
-def roll
+# #with range
+# def roll
   
-end
+# end
 
-#with arrays
+# #with arrays
