@@ -4,5 +4,6 @@
 
 def roll
   # code goes here
+  value =  1 + rand(6)
   
 end
