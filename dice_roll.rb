@@ -3,15 +3,15 @@
 # Feel free to google "how to generate a random number in ruby"
 
 #using the random
-def roll
-  # code goes here
-  1 + rand(6)
-end
+# def roll
+#   # code goes here
+#   1 + rand(6)
+# end
 
-# #with range
-def roll
+# # #with range
+# def roll
   
-end
+# end
 
 # #with arrays
 def roll
