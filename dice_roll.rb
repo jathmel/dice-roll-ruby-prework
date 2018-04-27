@@ -9,8 +9,8 @@ def roll
 end
 
 # #with range
-# def roll
+def roll
   
-# end
+end
 
 # #with arrays
