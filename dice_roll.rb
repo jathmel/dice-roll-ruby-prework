@@ -2,8 +2,15 @@
 
 # Feel free to google "how to generate a random number in ruby"
 
+#using the random
 def roll
   # code goes here
-  value =  1 + rand(6)
+  1 + rand(6)
+end
+
+#with range
+def roll
   
 end
+
+#with arrays
